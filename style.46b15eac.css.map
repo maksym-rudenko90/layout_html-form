@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,qBACE,eACF,CAEA,OACE,aAAc,CACd,eACF,CAEA,kBACE,eACF","file":"style.46b15eac.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.auth-form__fieldset {\n  margin: 0 0 20px;\n}\n\n.field {\n  display: block;\n  margin: 0 0 10px;\n}\n\n.field:last-child {\n  margin-bottom: 0;\n}\n"]}
